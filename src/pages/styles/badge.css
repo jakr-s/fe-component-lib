@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.badge_colors {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 240px;
+}
+
+.badge_sizes {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
